@@ -33,8 +33,8 @@ realtime-chat/
 
 | Join Page                                    | Chat Room UI                                 |
 | -------------------------------------------- | -------------------------------------------- |
-| ![Join Page](docs/join_page.png) | ![Chat Room](docs/brave_browser_screenshot.png) | ![Chat Room](docs/firefox_browser_screenshot.png) 
-s
+| ![Join Page](docs/join_page.png) | ![Chat Room](docs/brave_browser_screenshot.png) | ![Chat Room](docs/firefox_browser_screenshot.png) |
+
 ---
 
 ## ⚙️ Tech Stack
